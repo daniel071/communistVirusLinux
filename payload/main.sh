@@ -12,7 +12,11 @@ cd "${0%/*}"
 amixer -q sset Master 100%+
 
 # play epic russian music!
-aplay -q ./russia.wav
+aplay -q ./russia.wav &
+
+# change background image to SOVIET
+backgroundPath="$(pwd)/soviet_union.jpg"
+gsettings set org.gnome.desktop.background picture-uri   file://$backgroundPath
 
 # send notification
 notify-send --urgency=critical "Your PC is being converted" "To the great Soviet Union!"
