@@ -1,6 +1,6 @@
 # Communist Virus - Linux edition!
 ## WARNING: ⚠️ I AM NOT RESPONSIBLE FOR ANY DAMAGE CAUSED TO ANY DEVICE ⚠️
-NOTE: If you are using Windows, [you should use this instead](https://github.com/daniel071/communistVirus)
+**NOTE: If you are using Windows, [you should use this instead](https://github.com/daniel071/communistVirus)**
 
 Communist Virus is a simple program in mainly bash script that changes your background and plays russian music!
 I made this program for fun, it doesn't do anything harmful.
