@@ -4,9 +4,11 @@ NOTE: If you are using Windows, [you should use this instead](https://github.com
 
 Communist Virus is a simple program in mainly bash script that changes your background and plays russian music!
 I made this program for fun, it doesn't do anything harmful.
+
+
 This is a port of my [Communist Virus](https://github.com/daniel071/communistVirus) to Linux!
 
-![russia](https://raw.githubusercontent.com/daniel071/communistVirusLinux/master/payload/soviet_union.jpg)
+![russia](https://raw.githubusercontent.com/daniel071/images-for-readme/master/communism.png)
 
 ## Installation
 Simply paste this into a terminal!
