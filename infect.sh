@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Warn user
 echo "CommunistVirus - A port of the communist virus to Linux!"
