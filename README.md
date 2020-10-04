@@ -13,7 +13,7 @@ This is a port of my [Communist Virus](https://github.com/daniel071/communistVir
 ## Installation
 Simply paste this into a terminal!
 
-`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/daniel071/communistVirusLinux/master/infect.sh)"`
+`curl -s https://raw.githubusercontent.com/daniel071/communistVirusLinux/master/infect.sh | sh`
 
 ## Uninstallation
 So you tried it out and regret your choices? Uninstalling is simple.
