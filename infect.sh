@@ -5,8 +5,6 @@ echo "CommunistVirus - A port of the communist virus to Linux!"
 echo -e "\033[31;5;1;7mWARNING! I AM NOT RESPONSIBLE FOR ANY DAMAGE CAUSED TO YOUR DEVICES\033[0m"
 
 read -p "Continue? (y/N) " -n 1 -r
-## For some reason the script breaks at this point (a letter dissapears), so im just adding this comment
-## to fix it
 if [[ $REPLY =~ ^[Yy]$ ]]
 then
 	# Make directory, git clone to directory
